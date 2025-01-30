@@ -1,0 +1,13 @@
+.header-bar {
+    top: 0;
+    position: sticky;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(175, 225, 252);
+    z-index: 3;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
